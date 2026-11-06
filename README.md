@@ -13,6 +13,7 @@ I build end-to-end test frameworks (Cypress, Selenium, Appium), parameterized lo
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ### Featured Repositories
+- [custom-skills](https://github.com/Martined27/custom-skills) — Custom Claude Code skills for DAST alert triage, authenticated endpoint sweeps, and Cypress automation
 - [basic-testfwk-ed](https://github.com/Martined27/basic-testfwk-ed) — Dockerized Python + Pytest API test framework with HTML reporting
 - [wallFramework](https://github.com/Martined27/wallFramework) — Mobile automation framework built with Java, Appium, and Page Object Model
 - [AutomationPractice](https://github.com/Martined27/AutomationPractice) — Multi-browser web test automation framework (Java + Selenium + Maven)
