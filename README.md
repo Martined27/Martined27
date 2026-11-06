@@ -14,6 +14,7 @@ I build end-to-end test frameworks (Cypress, Selenium, Appium), parameterized lo
 
 ### Featured Repositories
 - [zap-dast-pipeline](https://github.com/Martined27/zap-dast-pipeline) — Dockerized OWASP ZAP DAST pipeline (Automation Framework, SPA Bearer auth, GraphQL seeding, Trivy & CI/CD)
+- [cypress-framework-template](https://github.com/Martined27/cypress-framework-template) — Production-style Cypress 13 E2E framework (Singleton POM, Scoped Helpers vs. Global Commands, `@cypress/grep`, `cypress-parallel` weighted execution)
 - [custom-skills](https://github.com/Martined27/custom-skills) — Custom Claude Code skills for DAST alert triage, authenticated endpoint sweeps, and Cypress automation
 - [basic-testfwk-ed](https://github.com/Martined27/basic-testfwk-ed) — Dockerized Python + Pytest API test framework with HTML reporting
 - [wallFramework](https://github.com/Martined27/wallFramework) — Mobile automation framework built with Java, Appium, and Page Object Model
